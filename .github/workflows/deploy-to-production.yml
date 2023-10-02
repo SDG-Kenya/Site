@@ -45,7 +45,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        REPOSITORY_NAME: KNBS-SDG/knbs-sdg.github.io
+        REPOSITORY_NAME: KNBS-Sustainable-Development/KNBS-Sustainable-Development.github.io
         ACCESS_TOKEN: ${{ secrets.token }}
         BRANCH: main
         FOLDER: _site
