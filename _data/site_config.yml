@@ -228,11 +228,11 @@ progress_status:
   status_heading: ''
   status_help: ''
   status_types: []
-progressive_web_app:
-  enabled: false
-  name: ''
-  short_name: ''
-  precaching: false
+progressive_web_app: 
+  enabled: true 
+  name: Kenya SDG App
+  short_name: Kenya SDG App
+  precaching: true
 proxy_indicators:
   label: ''
   description: ''
