@@ -186,7 +186,7 @@ menu:
   - path: /reporting-status
     translation_key: menu.reporting_status
     dropdown: []
-  - path: /publications
+  - path: /site/publications/
     translation_key: menu.publications
     dropdown: []
   - path: /news
