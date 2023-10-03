@@ -1,9 +1,8 @@
----​
-title: Publications​
-language: en​
-permalink: /publications/​
-layout: page​
-toc: true​
+---
+title: Publications
+permalink: /publications/
+layout: page
+toc: true
 ---
 
 ## KNBS heading
