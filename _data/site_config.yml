@@ -27,7 +27,19 @@ country:
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
-  goals: []
+  goals: 
+    - goal: 4
+      content: >-
+        
+        Goal 4 seeks to:
+        
+        -	ensure access to fair, impartial and quality education through all stages of life
+        
+        -	increase the number of young people and adults who have the relevant skills for employment, decent jobs, and entrepreneurship
+        
+        -	eliminate gender and income disparities in access to education
+      heading: Goal 4 - Quality Education
+      content_heading: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
 create_indicators:
   previous_next_links: false
 create_pages:
@@ -216,11 +228,11 @@ progress_status:
   status_heading: ''
   status_help: ''
   status_types: []
-progressive_web_app:
-  enabled: false
-  name: ''
-  short_name: ''
-  precaching: false
+progressive_web_app: 
+  enabled: true 
+  name: Kenya SDG App
+  short_name: Kenya SDG App
+  precaching: true
 proxy_indicators:
   label: ''
   description: ''
