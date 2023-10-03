@@ -81,16 +81,16 @@ frontpage_cards:
     rule_color: ''
   - title: Lorem ipsum
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      A universal call to action to end poverty, protect the planet and 
+      improve the lives and prospects of everyone, everywhere.
     include: ''
     button_label: Read more
     button_link: 'https://example.com'
     rule_color: ''
   - title: Nam vestibulum
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      The 17 Goals were adopted by all UN Member States in 2015,
+      as part of the 2030 Agenda for Sustainable Development.
     include: ''
     button_label: Read more
     button_link: 'https://example.com'
