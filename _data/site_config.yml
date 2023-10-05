@@ -1,8 +1,8 @@
 ﻿analytics:
   ua: ''
-  gtag: ''
+  gtag: 'G-7T27C539MP'
   gtm: ''
-  ga_prod: ''
+  ga_prod: 'G-7T27C539MP'
 breadcrumbs:
   goal:
     - path: /
