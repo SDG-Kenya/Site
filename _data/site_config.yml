@@ -68,9 +68,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: testemail@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: sdg@knbs.or.ke
+  suggestions: sdg@knbs.or.ke
+  functional: sdg@knbs.or.ke
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
@@ -78,9 +78,9 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: 'https://twitter.com/KNBStats?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'
     translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
+  - path: 'https://www.facebook.com/bureauofstatistics/'
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
@@ -99,13 +99,12 @@ frontpage_cards:
     button_label: Read more
     button_link: 'https://example.com'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: News
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      Check this page for news regarding the reporting of our statistics for global indicators and opportunities to contribute to measuring achievement of the sustainable development goals
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://sdg-kenya.github.io/Site/news/'
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
