@@ -5,11 +5,14 @@ layout: page
 toc: true
 ---
 
-## KNBS heading
-This is KNBS' publication page.
+## Sustainable Development Goals in Kenya Statistical Annex to the Kenya Voluntary National Review
 
-[Here is a link to a publication](https://sdg-kenya.github.io/Site/contact-us/)
+[Here is a link to a publication](https://www.knbs.or.ke/wp-content/uploads/2024/06/Kenya-SDG-Statistical-Annex-2024.pdf)
 
-Here is an explanation of the publication
+This is Kenya's third Voluntary National Review (VNR), following the first two in 2017 and 2020. Over
+the past ten years, since the adoption of the 2030 Agenda for Sustainable Development, significant
+progress has been made in its implementation and many accomplishments have been realized. The
+Kenya National Bureau of Statistics (KNBS) plays a crucial role in this implementation by identifying
+indicators and providing data to track the achievement of the Sustainable Development Goals (SDGs). 
 
-<small>3 October 2023</small>
+<small>2024</small>
