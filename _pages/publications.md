@@ -7,7 +7,7 @@ toc: true
 
 ## Sustainable Development Goals in Kenya Statistical Annex to the Kenya Voluntary National Review
 
-[Here is a link to a publication](https://www.knbs.or.ke/wp-content/uploads/2024/06/Kenya-SDG-Statistical-Annex-2024.pdf)
+[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2024/06/Kenya-SDG-Statistical-Annex-2024.pdf)
 
 This is Kenya's third Voluntary National Review (VNR), following the first two in 2017 and 2020. Over
 the past ten years, since the adoption of the 2030 Agenda for Sustainable Development, significant
