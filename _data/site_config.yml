@@ -95,17 +95,17 @@ frontpage_cards:
   #   content: |
   #     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
   #     cursus est sed dapibus.
-    include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
-    rule_color: ''
-  - title: News
-    content: |
-      Check this page for news regarding the reporting of our statistics for global indicators and opportunities to contribute to measuring achievement of the sustainable development goals
-    include: ''
-    button_label: Read more
-    button_link: 'https://sdg-kenya.github.io/Site/news/'
-    rule_color: ''
+  #  include: ''
+  #  button_label: Read more
+  #  button_link: 'https://example.com'
+  #  rule_color: ''
+  # - title: News
+  #   content: |
+  #     Check this page for news regarding the reporting of our statistics for global indicators and opportunities to contribute to measuring achievement of the sustainable development goals
+  #   include: ''
+  #   button_label: Read more
+  #   button_link: 'https://sdg-kenya.github.io/Site/news/'
+  #   rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
   description: frontpage.instructions_shorter
