@@ -241,7 +241,7 @@ reporting_status:
   disaggregation_tabs: false
   status_types:
     - value: complete
-      label: status.reported_online
+      label: status.reported
       hide_on_goal_pages: false
     - value: notstarted
       label: status.no_data_available
