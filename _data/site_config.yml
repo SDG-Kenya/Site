@@ -60,7 +60,7 @@ custom_js:
   - /assets/js/custom.js
 data_edit_url: data
 data_fields:
-  units: ''
+  units: 'UNIT_MEASURE'
   series: 'SERIES'
 date_formats: []
 disclaimer:
