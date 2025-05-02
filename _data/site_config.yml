@@ -61,7 +61,7 @@ custom_js:
 data_edit_url: data
 data_fields:
   units: ''
-  series: ''
+  series: 'SERIES'
 date_formats: []
 disclaimer:
   phase: ''
