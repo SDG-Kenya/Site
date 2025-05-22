@@ -130,7 +130,6 @@ hide_single_unit: true
 ignored_disaggregations: 
   - SOURCE_DETAIL
   - COMMENT_OBS
-  - SERIES
 indicator_config_form:
   enabled: true
   dropdowns: []
