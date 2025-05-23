@@ -26,7 +26,6 @@ country:
   adjective: Kenyan
 create_goals:
   previous_next_links: false
-goal_content_heading: ''
   goals:
     - goal: 1
       content: >-
