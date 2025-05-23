@@ -27,7 +27,7 @@ country:
 create_goals:
   previous_next_links: false
 goal_content_heading: ''
-    goals:
+  goals:
     - goal: 1
       content: >-
         
