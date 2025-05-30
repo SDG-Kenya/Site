@@ -144,7 +144,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/Site/assets/css/style.css?v=20250528091339">
+        <link rel="stylesheet" href="/Site/assets/css/style.css?v=20250530112916">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -320,10 +320,14 @@ data-event-label="high"
 
 
 
-  <div class="container g-0 ">
+  <div class="container g-0 goal-showing-progress">
     <div class="row align-items-end">
       <div class="col">
         <h2 class="goal-page-heading">Targets and indicators</h2>
+      </div>
+      
+      <div class="col-lg-2 d-none d-lg-block progress-column-header">
+        <span aria-hidden="true">How are we doing against the 2030 target?</span>
       </div>
       
     </div>
@@ -339,6 +343,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -369,8 +375,8 @@ data-event-label="high"
 
 
 
-<span class="status complete">
-    <span class="status-inner">Reported</span>
+<span class="status notstarted">
+    <span class="status-inner">No data available</span>
 </span>
 
 
@@ -409,8 +415,8 @@ data-event-label="high"
 
 
 
-<span class="status complete">
-    <span class="status-inner">Reported</span>
+<span class="status notstarted">
+    <span class="status-inner">No data available</span>
 </span>
 
 
@@ -435,6 +441,8 @@ data-event-label="high"
             <span class="target-name">By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons</span>
           </div>
           
+          <div class="col-lg-2 d-none d-lg-block"></div>
+          
       </div>
         
 
@@ -452,7 +460,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/Site/2-2-1/">Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age</a></span>
+              <span class="indicator-name"><a href="/Site/2-2-1/">Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age</a></span>
               
 
 
@@ -464,8 +472,8 @@ data-event-label="high"
 
 
 
-<span class="status complete">
-    <span class="status-inner">Reported</span>
+<span class="status notstarted">
+    <span class="status-inner">No data available</span>
 </span>
 
 
@@ -492,7 +500,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/Site/2-2-2/">Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)</a></span>
+              <span class="indicator-name"><a href="/Site/2-2-2/">Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)</a></span>
               
 
 
@@ -504,8 +512,8 @@ data-event-label="high"
 
 
 
-<span class="status complete">
-    <span class="status-inner">Reported</span>
+<span class="status notstarted">
+    <span class="status-inner">No data available</span>
 </span>
 
 
@@ -544,12 +552,21 @@ data-event-label="high"
 
 
 
-<span class="status notstarted">
-    <span class="status-inner">No data available</span>
+<span class="status complete">
+    <span class="status-inner">Reported</span>
 </span>
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
 
 
             </div>
@@ -594,6 +611,12 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+
+            </div>
+            
             
           </div>
         
@@ -609,6 +632,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -646,6 +671,12 @@ data-event-label="high"
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
 
             </div>
             
@@ -689,6 +720,12 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+
+            </div>
+            
             
           </div>
         
@@ -704,6 +741,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -744,6 +783,12 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+
+            </div>
+            
             
           </div>
         
@@ -759,6 +804,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -789,13 +836,19 @@ data-event-label="high"
 
 
 
-<span class="status complete">
-    <span class="status-inner">Reported</span>
+<span class="status notstarted">
+    <span class="status-inner">No data available</span>
 </span>
 
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
 
             </div>
             
@@ -839,6 +892,12 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+
+            </div>
+            
             
           </div>
         
@@ -854,6 +913,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -884,13 +945,19 @@ data-event-label="high"
 
 
 
-<span class="status complete">
-    <span class="status-inner">Reported</span>
+<span class="status notstarted">
+    <span class="status-inner">No data available</span>
 </span>
 
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
 
             </div>
             
@@ -924,13 +991,19 @@ data-event-label="high"
 
 
 
-<span class="status complete">
-    <span class="status-inner">Reported</span>
+<span class="status notstarted">
+    <span class="status-inner">No data available</span>
 </span>
 
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
 
             </div>
             
@@ -949,6 +1022,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -989,6 +1064,12 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+
+            </div>
+            
             
           </div>
         
@@ -1004,6 +1085,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -1034,13 +1117,19 @@ data-event-label="high"
 
 
 
-<span class="status complete">
-    <span class="status-inner">Reported</span>
+<span class="status notstarted">
+    <span class="status-inner">No data available</span>
 </span>
 
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
 
             </div>
             
@@ -1138,12 +1227,12 @@ ga('send', 'pageview');
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/Site/assets/js/sdg.js?v=20250528091339'></script>
+<script src='/Site/assets/js/sdg.js?v=20250530112916'></script>
 
 
     
     
-    <script src="/Site/assets/js/custom.js?v=20250528091339"></script><script>
+    <script src="/Site/assets/js/custom.js?v=20250530112916"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
