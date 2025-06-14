@@ -384,8 +384,6 @@ hide_empty_metadata: true
 hide_single_series: true
 hide_single_unit: true
 ignored_disaggregations: 
-  - SOURCE_DETAIL
-  - COMMENT_OBS
   - TIME_DETAIL
   - NATURE
 indicator_config_form:
@@ -466,6 +464,8 @@ news:
 observation_attributes:
   - field: COMMENT_OBS
     label: 'Comment'
+  - field: SOURCE_DETAIL
+    label: 'Source'
 progress_status:
   status_heading: ''
   status_help: ''
