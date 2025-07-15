@@ -462,9 +462,9 @@ meta_tags: []
 news:
   category_links: false
 observation_attributes:
-  - field: []
+  - field: 
     label: ''
-  - field: []
+  - field: 
     label: ''
 progress_status:
   status_heading: ''
@@ -504,7 +504,7 @@ site_config_form:
   translation_link: ''
 time_series_attributes:
   - field: COMMENT_TS
-    label: indicator.footnote
+    label: footnote
   - field: DATA_LAST_UPDATE
     label: metadata_fields.national_data_update_url
 use_new_config_forms: true
