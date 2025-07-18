@@ -461,11 +461,11 @@ metadata_tabs:
 meta_tags: []
 news:
   category_links: false
-observation_attributes:
-  - field: 
-    label: ''
-  - field: 
-    label: ''
+observation_attributes: []
+  # - field: 
+  #   label: ''
+  # - field: 
+  #   label: ''
 progress_status:
   status_heading: ''
   status_help: ''
