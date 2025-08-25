@@ -20,3 +20,7 @@ indicators and providing data to track the achievement of the Sustainable Develo
 ## Kenya Demographic Health Survey 2022
 
 [Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2023/08/Kenya-Demographic-and-Health-Survey-KDHS-2022-Summary-Report.pdf)
+
+## Economic Survery 2024
+
+[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey-Popular-Version.pdf)
