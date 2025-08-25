@@ -21,6 +21,20 @@ indicators and providing data to track the achievement of the Sustainable Develo
 
 [Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2023/08/Kenya-Demographic-and-Health-Survey-KDHS-2022-Summary-Report.pdf)
 
-## Economic Survery 2024
+## Economic Survery 2025
 
 [Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey-Popular-Version.pdf)
+
+## Kenya Poverty Survery 2022
+
+[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2024/10/The-Kenya-Poverty-Report-2022.pdf)
+
+## Women and Men in Kenya 2022
+
+[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2023/09/Women-and-Men-in-Kenya-Facts-and-Figures-2022.pdf)
+
+## Census of Agriculture 2024
+
+[Link to the publication](https://www.knbs.or.ke/reports/2024-25-kenya-census-of-agriculture-pilot-report/)
+
+
