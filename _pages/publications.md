@@ -16,3 +16,12 @@ Kenya National Bureau of Statistics (KNBS) plays a crucial role in this implemen
 indicators and providing data to track the achievement of the Sustainable Development Goals (SDGs). 
 
 <small>2024</small>
+
+## The Kenya Poverty Report 2022
+
+[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2024/10/The-Kenya-Poverty-Report-2022.pdf)
+
+
+## Kenya Demographic and Health Survey 2022
+
+[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2023/08/Kenya-Demographic-and-Health-Survey-KDHS-2022-Summary-Report.pdf)
