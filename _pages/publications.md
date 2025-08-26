@@ -21,20 +21,28 @@ indicators and providing data to track the achievement of the Sustainable Develo
 
 [Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2023/08/Kenya-Demographic-and-Health-Survey-KDHS-2022-Summary-Report.pdf)
 
+The 2022 Kenya Demographic and Health Survey (KDHS) is designed to provide data for monitoring the population and health situation in Kenya.
+
 ## Economic Survey 2025
 
 [Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey-Popular-Version.pdf)
+
+The Economic Survey is an annual publication focusing on the socio-economic highlights of the economy for the last five years. The
+report forms an important source of input into the budgeting, planning, monitoring and policy formulation processes with guidance to national
+development policy and investment decisions.
 
 ## Kenya Poverty Survey 2022
 
 [Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2024/10/The-Kenya-Poverty-Report-2022.pdf)
 
+The Kenya Poverty Survey 2022 highlights the indicators and data for poverty.
+
 ## Women and Men in Kenya 2022
 
 [Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2023/09/Women-and-Men-in-Kenya-Facts-and-Figures-2022.pdf)
 
-## Census of Agriculture 2024
+## Kenya Census of Agriculture 2024
 
-[Link to the publication](https://www.knbs.or.ke/reports/2024-25-kenya-census-of-agriculture-pilot-report/)
+[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2025/01/2024-25-Kenya-Census-of-Agriculture-Pilot-Survey_1.pdf)
 
 
