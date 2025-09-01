@@ -40,7 +40,7 @@ var opensdg = {
   },
 
   // Disaggregations which should be ignored on indicator pages.
-  ignoredDisaggregations: ["TIME_DETAIL","NATURE","Progress"],
+  ignoredDisaggregations: ["Time period details","Nature of data points","Progress"],
 
   language: 'en',
 
@@ -147,7 +147,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/Site/assets/css/style.css?v=20250901101741">
+        <link rel="stylesheet" href="/Site/assets/css/style.css?v=20250901112119">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -359,7 +359,7 @@ layout-indicator-iframe
   data-graphtargetlines="[]"
   data-graphseriesbreaks="[]"
   data-indicatordownloads="null"
-  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;},{&quot;name&quot;:&quot;SERIES&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;_L_KE_160701_01&quot;,&quot;_L_KE_160701_02&quot;,&quot;_L_KE_160701_03&quot;,&quot;_L_KE_160701_04&quot;,&quot;_L_KE_160701_05&quot;,&quot;_L_KE_160701_06&quot;,&quot;_L_KE_160701_07&quot;,&quot;SG_DMK_PARLMP_UC&quot;,&quot;&quot;]},&quot;title&quot;:&quot;SERIES&quot;},{&quot;name&quot;:&quot;REF_AREA&quot;,&quot;type&quot;:&quot;number&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;&quot;]},&quot;title&quot;:&quot;REF_AREA&quot;},{&quot;name&quot;:&quot;SEX&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;F&quot;,&quot;&quot;]},&quot;title&quot;:&quot;SEX&quot;},{&quot;name&quot;:&quot;AGE&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Y18T44&quot;,&quot;&quot;]},&quot;title&quot;:&quot;AGE&quot;},{&quot;name&quot;:&quot;OCCUPATION&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;ISCO08_2612&quot;,&quot;ISCO08_2619R&quot;,&quot;&quot;]},&quot;title&quot;:&quot;OCCUPATION&quot;},{&quot;name&quot;:&quot;DISABILITY_STATUS&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;PD&quot;,&quot;&quot;]},&quot;title&quot;:&quot;DISABILITY_STATUS&quot;},{&quot;name&quot;:&quot;UNIT_MEASURE&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;RO&quot;,&quot;PT&quot;,&quot;&quot;]},&quot;title&quot;:&quot;UNIT_MEASURE&quot;},{&quot;name&quot;:&quot;OBS_STATUS&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;A&quot;,&quot;&quot;]},&quot;title&quot;:&quot;OBS_STATUS&quot;},{&quot;name&quot;:&quot;UNIT_MULT&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;0&quot;,&quot;&quot;]},&quot;title&quot;:&quot;UNIT_MULT&quot;},{&quot;name&quot;:&quot;GeoCode&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;GeoCode&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
+  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;},{&quot;name&quot;:&quot;SERIES&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Ratio for female members of legislature compared to the  National distribution&quot;,&quot;Ratio for female members of judiciary compared to the  National distribution&quot;,&quot;Ratio for female members of legislature compared to the  National distribution, Senate&quot;,&quot;Ratio for female members of legislature compared to the  National distribution, Parliament&quot;,&quot;Ratio for female members of legislature compared to the  National distribution, County Assembly&quot;,&quot;Ratio for female members of legislature compared to the  National distribution, Speakers&quot;,&quot;Ratio for female members of legislature compared to the  National distribution, Clerks&quot;,&quot;Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]&quot;,&quot;&quot;]},&quot;title&quot;:&quot;SDG Series&quot;},{&quot;name&quot;:&quot;REF_AREA&quot;,&quot;type&quot;:&quot;number&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;&quot;]},&quot;title&quot;:&quot;Reference area&quot;},{&quot;name&quot;:&quot;SEX&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Female&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Sex&quot;},{&quot;name&quot;:&quot;AGE&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;18 to 44 years old&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Age&quot;},{&quot;name&quot;:&quot;OCCUPATION&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Judges&quot;,&quot;Registrars included in 2619 - Legal Professionals Not Elsewhere Classified&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Occupation&quot;},{&quot;name&quot;:&quot;DISABILITY_STATUS&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Persons with disability&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Disability status&quot;},{&quot;name&quot;:&quot;UNIT_MEASURE&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Ratio&quot;,&quot;Percent&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Unit of measure&quot;},{&quot;name&quot;:&quot;OBS_STATUS&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Normal value&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Observation status&quot;},{&quot;name&quot;:&quot;UNIT_MULT&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Units&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Unit multiplier&quot;},{&quot;name&quot;:&quot;GeoCode&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;GeoCode&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
   data-compositebreakdownlabel=""
   data-precision="[]"
   data-proxy="proxy"
@@ -1721,12 +1721,12 @@ ga('send', 'pageview');
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/Site/assets/js/sdg.js?v=20250901101741'></script>
+<script src='/Site/assets/js/sdg.js?v=20250901112119'></script>
 
 
     
     
-    <script src="/Site/assets/js/custom.js?v=20250901101741"></script><script>
+    <script src="/Site/assets/js/custom.js?v=20250901112119"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
