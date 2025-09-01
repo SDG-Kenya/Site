@@ -1186,9 +1186,17 @@
   {
     "goal": {
       "id": "10",
-      "title": "Reduce inequality within and among countries",
+      "title": "",
       "indicators": [
         
+        {
+          "id": "10",
+          "title": "",
+          "description": "",
+          "keywords": "",
+          "href": "/Site/10/",
+          "status": "complete"
+        },
         {
           "id": "10-1-1",
           "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population",
@@ -1306,9 +1314,17 @@
   {
     "goal": {
       "id": "11",
-      "title": "Make cities and human settlements inclusive, safe, resilient and sustainable",
+      "title": "",
       "indicators": [
         
+        {
+          "id": "11",
+          "title": "",
+          "description": "",
+          "keywords": "",
+          "href": "/Site/11/",
+          "status": "complete"
+        },
         {
           "id": "11-1-1",
           "title": "Proportion of urban population living in slums, informal settlements or inadequate housing",
