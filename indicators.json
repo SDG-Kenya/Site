@@ -2,17 +2,9 @@
   {
     "goal": {
       "id": "1",
-      "title": "",
+      "title": "End poverty in all its forms everywhere",
       "indicators": [
         
-        {
-          "id": "1",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/1/",
-          "status": "complete"
-        },
         {
           "id": "1-1-1",
           "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
@@ -122,17 +114,9 @@
   {
     "goal": {
       "id": "2",
-      "title": "",
+      "title": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
       "indicators": [
         
-        {
-          "id": "2",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/2/",
-          "status": "complete"
-        },
         {
           "id": "2-1-1",
           "title": "Prevalence of undernourishment",
@@ -266,17 +250,9 @@
   {
     "goal": {
       "id": "3",
-      "title": "",
+      "title": "Ensure healthy lives and promote well-being for all at all ages",
       "indicators": [
         
-        {
-          "id": "3",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/3/",
-          "status": "complete"
-        },
         {
           "id": "3-1-1",
           "title": "Maternal mortality ratio",
@@ -506,17 +482,9 @@
   {
     "goal": {
       "id": "4",
-      "title": "",
+      "title": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
       "indicators": [
         
-        {
-          "id": "4",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/4/",
-          "status": "complete"
-        },
         {
           "id": "4-1-1",
           "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",
@@ -626,17 +594,9 @@
   {
     "goal": {
       "id": "5",
-      "title": "",
+      "title": "Achieve gender equality and empower all women and girls",
       "indicators": [
         
-        {
-          "id": "5",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/5/",
-          "status": "complete"
-        },
         {
           "id": "5-1-1",
           "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",
@@ -754,17 +714,9 @@
   {
     "goal": {
       "id": "6",
-      "title": "",
+      "title": "Ensure availability and sustainable management of water and sanitation for all",
       "indicators": [
         
-        {
-          "id": "6",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/6/",
-          "status": "complete"
-        },
         {
           "id": "6-1-1",
           "title": "Proportion of population using safely managed drinking water services",
@@ -858,17 +810,9 @@
   {
     "goal": {
       "id": "7",
-      "title": "",
+      "title": "Ensure access to affordable, reliable, sustainable and modern energy for all",
       "indicators": [
         
-        {
-          "id": "7",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/7/",
-          "status": "complete"
-        },
         {
           "id": "7-1-1",
           "title": "Proportion of population with access to electricity",
@@ -922,17 +866,9 @@
   {
     "goal": {
       "id": "8",
-      "title": "",
+      "title": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
       "indicators": [
         
-        {
-          "id": "8",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/8/",
-          "status": "complete"
-        },
         {
           "id": "8-1-1",
           "title": "Annual growth rate of real GDP per capita",
@@ -1074,17 +1010,9 @@
   {
     "goal": {
       "id": "9",
-      "title": "",
+      "title": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
       "indicators": [
         
-        {
-          "id": "9",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/9/",
-          "status": "complete"
-        },
         {
           "id": "9-1-1",
           "title": "Proportion of the rural population who live within 2 km of an all-season road",
@@ -1186,17 +1114,9 @@
   {
     "goal": {
       "id": "10",
-      "title": "",
+      "title": "Reduce inequality within and among countries",
       "indicators": [
         
-        {
-          "id": "10",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/10/",
-          "status": "complete"
-        },
         {
           "id": "10-1-1",
           "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population",
@@ -1314,17 +1234,9 @@
   {
     "goal": {
       "id": "11",
-      "title": "",
+      "title": "Make cities and human settlements inclusive, safe, resilient and sustainable",
       "indicators": [
         
-        {
-          "id": "11",
-          "title": "",
-          "description": "",
-          "keywords": "",
-          "href": "/Site/11/",
-          "status": "complete"
-        },
         {
           "id": "11-1-1",
           "title": "Proportion of urban population living in slums, informal settlements or inadequate housing",
