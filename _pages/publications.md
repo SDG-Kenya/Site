@@ -11,18 +11,34 @@ toc: true
 - [Goal 3: Good Health and Well-Being](#goal-3-good-health-and-well-being)
 - [Goal 4: Quality Education](#goal-4-quality-education)
 - [Goal 5: Gender Equality](#goal-5-gender-equality)
+- [Goal 6: Clean Water and Sanitation](#goal-6-clean-water-and-sanitation)
+- [Goal 7: Affordable and Clean Energy](#goal-7-affordable-and-clean-energy)
+- [Goal 8: Decent Work and Economic Growth](#goal-8-decent-work-and-economic-growth)
+- [Goal 9: Industry, Innovation and Infrastructure](#goal-9-industry-innovation-and-infrastructure)
+- [Goal 10: Reduced Inequalities](goal-10-reduced-inequalities)
+- [Goal 12: Responsible Consumption and Production](responsible-consumption-and-production)
+
 
 ## All Goals
-[2015/2016 Kenya Integrated Household Budget Survey](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-2016-Kenya-Integrated-Household-Budget-Survey-Basic-Report.pdf)
+[2025 Economic Survey](https://www.knbs.or.ke/reports/2025-economic-survey/)
+
+[KENYA HOUSING SURVEY 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
+
+[Kenya Demographic and Health Survey 2022]( https://www.knbs.or.ke/wp-content/uploads/2023/08/Kenya-Demographic-and-Health-Survey-2022-Presentation.pdf)
 
 [2019 Population and Housing Census](https://www.knbs.or.ke/reports/kenya-census-2019/)
 
-[2025 Economic Survey](https://www.knbs.or.ke/reports/2025-economic-survey/)
+[2015/2016 Kenya Integrated Household Budget Survey](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-2016-Kenya-Integrated-Household-Budget-Survey-Basic-Report.pdf)
+
+[Kenya Demographic and Health Survey 2014]( https://www.knbs.or.ke/wp-content/uploads/2023/09/Kenya-Demographic-and-Health-Survey-2014-Full-Report.pdf)
+
 
 ## Goal 1: No Poverty
 [Kenya Housing Survey 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
 
 [Brighter Futures: Breaking Cycles of Poverty for Kenya’s Children – 2025](https://www.knbs.or.ke/wp-content/uploads/2025/08/Brighter-Futures-Breaking-Cycles-of-Poverty-for-Kenyas-Children-2025-Report1.pdf)
+
+[Kenya Poverty Survey 2022](https://www.knbs.or.ke/wp-content/uploads/2024/10/The-Kenya-Poverty-Report-2022.pdf)
 
 ## Goal 2: Zero Hunger
 [COVID 19 Survey Key Indicators Report Wave 2](https://www.knbs.or.ke/wp-content/uploads/2023/09/COVID-19-Survey-Key-Indicators-Report-Wave-2.pdf)
@@ -42,10 +58,35 @@ toc: true
 [NATIONAL SURVEY ON THE STATUS OF DRUGS AND SUBSTANCE USE IN KENYA](https://nacada.go.ke/sites/default/files/2023-05/National%20Survey%20on%20the%20Status%20of%20Drugs%20and%20Substance%20Use%20in%20Kenya%202022.pdf)
 
 ## Goal 4: Quality Education
-
 [KENYA HOUSING SURVEY 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
 
 ## Goal 5: Gender Equality
+[PMA 2020](https://ncpd.go.ke/wp-content/uploads/2021/02/PMA2020-Kenya-Nov-Dec-2018-Family-Planning-brief.pdf)
+
+[Kenya Time Use Survey 2021](https://www.knbs.or.ke/wp-content/uploads/2024/06/Kenya-Time-Use-Survey-Report-2021.pdf)
+
+[National Manpower Survey 2010-2011](https://www.knbs.or.ke/wp-content/uploads/2023/09/National-Manpower-Survey-2010-2011.pdf)
+
+[Enterprise ICT Survey 2016](https://www.knbs.or.ke/wp-content/uploads/2023/09/2016-ICT-Survey-Enterprise-Report.pdf)
+
+## Goal 6: Clean Water and Sanitation
+[Kenya Housing Survey 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
+
+## Goal 7: Affordable and Clean Energy
+
+[Kenya Housing Survey 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
+
+## Goal 8: Decent Work and Economic Growth
+[FinAcess Household Survey Report 2024](https://www.knbs.or.ke/wp-content/uploads/2024/12/2024-FinAccess-Household-Survey-Report.pdf)
+
+## Goal 9: Industry, Innovation and Infrastructure
+[Micro Small and Medium Establishments Survey Report 2016](https://www.knbs.or.ke/wp-content/uploads/2023/09/2016-Micro-Small-and-Medium-Enterprises-Basic-Report.pdf)
+
+## Goal 10: Reduced Inequalities
+
+
+## Goal 12: Responsible Consumption and Production
+
 
 
 ## Sustainable Development Goals in Kenya Statistical Annex to the Kenya Voluntary National Review
@@ -66,19 +107,6 @@ indicators and providing data to track the achievement of the Sustainable Develo
 
 The 2022 Kenya Demographic and Health Survey (KDHS) is designed to provide data for monitoring the population and health situation in Kenya.
 
-## Economic Survey 2025
-
-[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey-Popular-Version.pdf)
-
-The Economic Survey is an annual publication focusing on the socio-economic highlights of the economy for the last five years. The
-report forms an important source of input into the budgeting, planning, monitoring and policy formulation processes with guidance to national
-development policy and investment decisions.
-
-## Kenya Poverty Survey 2022
-
-[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2024/10/The-Kenya-Poverty-Report-2022.pdf)
-
-The Kenya Poverty Survey 2022 highlights the indicators and data for poverty.
 
 ## Women and Men in Kenya 2022
 
