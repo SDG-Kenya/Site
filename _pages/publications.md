@@ -5,15 +5,20 @@ layout: page
 toc: true
 ---
 ## Table of contents
+- [All Goals](#all-goals)
 - [Goal 1](#goal-1)
 - [Goal 2](#goal-2)
 - [Goal 3](#goal-3)
 - [Goal 4](#goal-4)
 - [Goal 5](#goal-5)
 
+## All Goals
+[2015/2016 Kenya Integrated Household Budget Survey](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-2016-Kenya-Integrated-Household-Budget-Survey-Basic-Report.pdf)
+[2019 Population and Housing Census](https://www.knbs.or.ke/reports/kenya-census-2019/)
+[2025 Economic Survey](https://www.knbs.or.ke/reports/2025-economic-survey/)
+
 ## Goal 1 - No Poverty
 [Kenya Housing Survey 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
-[2015/2016Kenya Integrated Household Budget Survey](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-2016-Kenya-Integrated-Household-Budget-Survey-Basic-Report.pdf)
 [Brighter Futures: Breaking Cycles of Poverty for Kenya’s Children – 2025](https://www.knbs.or.ke/wp-content/uploads/2025/08/Brighter-Futures-Breaking-Cycles-of-Poverty-for-Kenyas-Children-2025-Report1.pdf)
 
 ## Goal 2 - Zero Hunger
@@ -25,8 +30,6 @@ toc: true
 
 ## Goal 5 - Gender Equality
 
-## All Goals
-[2015/2016Kenya Integrated Household Budget Survey](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-2016-Kenya-Integrated-Household-Budget-Survey-Basic-Report.pdf)
 
 ## Sustainable Development Goals in Kenya Statistical Annex to the Kenya Voluntary National Review
 
