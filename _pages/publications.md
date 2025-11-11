@@ -15,8 +15,6 @@ toc: true
 - [Goal 7: Affordable and Clean Energy](#goal-7-affordable-and-clean-energy)
 - [Goal 8: Decent Work and Economic Growth](#goal-8-decent-work-and-economic-growth)
 - [Goal 9: Industry, Innovation and Infrastructure](#goal-9-industry-innovation-and-infrastructure)
-- [Goal 10: Reduced Inequalities](goal-10-reduced-inequalities)
-- [Goal 12: Responsible Consumption and Production](responsible-consumption-and-production)
 
 
 ## All Goals
@@ -32,6 +30,7 @@ toc: true
 
 [Kenya Demographic and Health Survey 2014]( https://www.knbs.or.ke/wp-content/uploads/2023/09/Kenya-Demographic-and-Health-Survey-2014-Full-Report.pdf)
 
+[CPI](https://www.knbs.or.ke/cpi-and-inflation-rates/#CPI-Reports)
 
 ## Goal 1: No Poverty
 [Kenya Housing Survey 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
@@ -46,6 +45,8 @@ toc: true
 [Kenya Demographic and Health Survey 2014]( https://www.knbs.or.ke/wp-content/uploads/2023/09/Kenya-Demographic-and-Health-Survey-2014-Full-Report.pdf)
 
 [Kenya Demographic and Health Survey 2022]( https://www.knbs.or.ke/wp-content/uploads/2023/08/Kenya-Demographic-and-Health-Survey-2022-Presentation.pdf)
+
+[Kenya Census of Agriculture 2024](https://www.knbs.or.ke/wp-content/uploads/2025/01/2024-25-Kenya-Census-of-Agriculture-Pilot-Survey_1.pdf)
 
 ## Goal 3: Good Health and Well-Being
 [Kenya Population-based HIV Impact Assessment KENPHIA 2018](https://phia.icap.columbia.edu/wp-content/uploads/2022/08/KENPHIA_Ago25-DIGITAL.pdf)
@@ -68,6 +69,8 @@ toc: true
 
 [Enterprise ICT Survey 2016](https://www.knbs.or.ke/wp-content/uploads/2023/09/2016-ICT-Survey-Enterprise-Report.pdf)
 
+[Women and Men in Kenya 2022](https://www.knbs.or.ke/wp-content/uploads/2023/09/Women-and-Men-in-Kenya-Facts-and-Figures-2022.pdf)
+
 ## Goal 6: Clean Water and Sanitation
 [Kenya Housing Survey 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
 
@@ -81,12 +84,6 @@ toc: true
 ## Goal 9: Industry, Innovation and Infrastructure
 [Micro Small and Medium Establishments Survey Report 2016](https://www.knbs.or.ke/wp-content/uploads/2023/09/2016-Micro-Small-and-Medium-Enterprises-Basic-Report.pdf)
 
-## Goal 10: Reduced Inequalities
-
-
-## Goal 12: Responsible Consumption and Production
-
-
 
 ## Sustainable Development Goals in Kenya Statistical Annex to the Kenya Voluntary National Review
 
@@ -98,16 +95,6 @@ progress has been made in its implementation and many accomplishments have been 
 Kenya National Bureau of Statistics (KNBS) plays a crucial role in this implementation by identifying
 indicators and providing data to track the achievement of the Sustainable Development Goals (SDGs). 
 
-
 <small>2024</small>
-
-
-## Women and Men in Kenya 2022
-
-[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2023/09/Women-and-Men-in-Kenya-Facts-and-Figures-2022.pdf)
-
-## Kenya Census of Agriculture 2024
-
-[Link to the publication](https://www.knbs.or.ke/wp-content/uploads/2025/01/2024-25-Kenya-Census-of-Agriculture-Pilot-Survey_1.pdf)
 
 
