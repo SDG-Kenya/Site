@@ -22,7 +22,7 @@ toc: true
 ## All Goals
 [2025 Economic Survey](https://www.knbs.or.ke/reports/2025-economic-survey/)
 
-[KENYA HOUSING SURVEY 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
+[Kenya Housing Survey 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
 
 [Kenya Demographic and Health Survey 2022]( https://www.knbs.or.ke/wp-content/uploads/2023/08/Kenya-Demographic-and-Health-Survey-2022-Presentation.pdf)
 
@@ -47,7 +47,6 @@ toc: true
 
 [Kenya Demographic and Health Survey 2022]( https://www.knbs.or.ke/wp-content/uploads/2023/08/Kenya-Demographic-and-Health-Survey-2022-Presentation.pdf)
 
-
 ## Goal 3: Good Health and Well-Being
 [Kenya Population-based HIV Impact Assessment KENPHIA 2018](https://phia.icap.columbia.edu/wp-content/uploads/2022/08/KENPHIA_Ago25-DIGITAL.pdf)
 
@@ -55,7 +54,7 @@ toc: true
 
 [Non Communicable Diseases Risk Factors Steps Survey Kenya 2015](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-Non-Communicable-Diseases-Risk-Factors-Steps-Survey-Kenya-Risk-Factors-Report.pdf)
 
-[NATIONAL SURVEY ON THE STATUS OF DRUGS AND SUBSTANCE USE IN KENYA](https://nacada.go.ke/sites/default/files/2023-05/National%20Survey%20on%20the%20Status%20of%20Drugs%20and%20Substance%20Use%20in%20Kenya%202022.pdf)
+[National Survey On The Status Of Drugs And Substance Use in Kenya](https://nacada.go.ke/sites/default/files/2023-05/National%20Survey%20on%20the%20Status%20of%20Drugs%20and%20Substance%20Use%20in%20Kenya%202022.pdf)
 
 ## Goal 4: Quality Education
 [KENYA HOUSING SURVEY 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
