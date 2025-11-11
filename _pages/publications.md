@@ -13,8 +13,19 @@ toc: true
 
 ## Goal 1 - No Poverty
 [Kenya Housing Survey 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
+[2015/2016Kenya Integrated Household Budget Survey](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-2016-Kenya-Integrated-Household-Budget-Survey-Basic-Report.pdf)
+[Brighter Futures: Breaking Cycles of Poverty for Kenya’s Children – 2025](https://www.knbs.or.ke/wp-content/uploads/2025/08/Brighter-Futures-Breaking-Cycles-of-Poverty-for-Kenyas-Children-2025-Report1.pdf)
 
 ## Goal 2 - Zero Hunger
+[COVID 19 Survey Key Indicators Report Wave 2](https://www.knbs.or.ke/wp-content/uploads/2023/09/COVID-19-Survey-Key-Indicators-Report-Wave-2.pdf)
+
+## Goal 3 - Good Health and Well-Being
+
+## Goal 4 - Quality Education
+
+## Goal 5 - Gender Equality
+
+## All Goals
 [2015/2016Kenya Integrated Household Budget Survey](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-2016-Kenya-Integrated-Household-Budget-Survey-Basic-Report.pdf)
 
 ## Sustainable Development Goals in Kenya Statistical Annex to the Kenya Voluntary National Review
