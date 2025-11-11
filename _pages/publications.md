@@ -15,6 +15,7 @@ toc: true
 - [Goal 7: Affordable and Clean Energy](#goal-7-affordable-and-clean-energy)
 - [Goal 8: Decent Work and Economic Growth](#goal-8-decent-work-and-economic-growth)
 - [Goal 9: Industry, Innovation and Infrastructure](#goal-9-industry-innovation-and-infrastructure)
+- [Goal 12: Responsible Consumption and Production](#goal-12-responsible-consumption-and-production)
 
 
 ## All Goals
@@ -83,6 +84,10 @@ toc: true
 
 ## Goal 9: Industry, Innovation and Infrastructure
 [Micro Small and Medium Establishments Survey Report 2016](https://www.knbs.or.ke/wp-content/uploads/2023/09/2016-Micro-Small-and-Medium-Enterprises-Basic-Report.pdf)
+
+## Goal 12: Responsible Consumption and Production
+[Census of Industrial Production Report 2019](https://www.knbs.or.ke/wp-content/uploads/2023/09/Census-of-Industrial-Production-Report-2019.pdf)
+
 
 
 ## Sustainable Development Goals in Kenya Statistical Annex to the Kenya Voluntary National Review
