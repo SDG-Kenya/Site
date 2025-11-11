@@ -4,6 +4,18 @@ permalink: /publications/
 layout: page
 toc: true
 ---
+## Table of contents
+- [Goal 1](#goal-1)
+- [Goal 2](#goal-2)
+- [Goal 3](#goal-3)
+- [Goal 4](#goal-4)
+- [Goal 5](#goal-5)
+
+## Goal 1 - No Poverty
+[Kenya Housing Survey 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
+
+## Goal 2 - Zero Hunger
+[2015/2016Kenya Integrated Household Budget Survey](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-2016-Kenya-Integrated-Household-Budget-Survey-Basic-Report.pdf)
 
 ## Sustainable Development Goals in Kenya Statistical Annex to the Kenya Voluntary National Review
 
