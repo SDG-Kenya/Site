@@ -6,11 +6,11 @@ toc: true
 ---
 ## Table of contents
 - [All Goals](#all-goals)
-- [Goal 1 - No Poverty](#goal-1-no-poverty)
-- [Goal 2 - Zero Hunger](#goal-2-zero-hunger)
-- [Goal 3 - Good Health and Wellbeing](#goal-3-good-health-and-wellbeing)
-- [Goal 4 - Quality Education](#goal-4-quality-education)
-- [Goal 5 - Gender Equality](#goal-5-gender-equality)
+- [Goal 1: No Poverty](#goal-1-no-poverty)
+- [Goal 2: Zero Hunger](#goal-2-zero-hunger)
+- [Goal 3: Good Health and Wellbeing](#goal-3-good-health-and-wellbeing)
+- [Goal 4: Quality Education](#goal-4-quality-education)
+- [Goal 5: Gender Equality](#goal-5-gender-equality)
 
 ## All Goals
 [2015/2016 Kenya Integrated Household Budget Survey](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-2016-Kenya-Integrated-Household-Budget-Survey-Basic-Report.pdf)
@@ -19,19 +19,19 @@ toc: true
 
 [2025 Economic Survey](https://www.knbs.or.ke/reports/2025-economic-survey/)
 
-## Goal 1 - No Poverty
+## Goal 1: No Poverty
 [Kenya Housing Survey 2023/24](https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-24-Kenya-Housing-Survey-Basic-Report1.pdf)
 
 [Brighter Futures: Breaking Cycles of Poverty for Kenya’s Children – 2025](https://www.knbs.or.ke/wp-content/uploads/2025/08/Brighter-Futures-Breaking-Cycles-of-Poverty-for-Kenyas-Children-2025-Report1.pdf)
 
-## Goal 2 - Zero Hunger
+## Goal 2: Zero Hunger
 [COVID 19 Survey Key Indicators Report Wave 2](https://www.knbs.or.ke/wp-content/uploads/2023/09/COVID-19-Survey-Key-Indicators-Report-Wave-2.pdf)
 
-## Goal 3 - Good Health and Well-Being
+## Goal 3: Good Health and Well-Being
 
-## Goal 4 - Quality Education
+## Goal 4: Quality Education
 
-## Goal 5 - Gender Equality
+## Goal 5: Gender Equality
 
 
 ## Sustainable Development Goals in Kenya Statistical Annex to the Kenya Voluntary National Review
