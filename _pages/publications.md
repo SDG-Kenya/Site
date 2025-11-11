@@ -6,11 +6,11 @@ toc: true
 ---
 ## Table of contents
 - [All Goals](#all-goals)
-- [Goal 1](#goal-1)
-- [Goal 2](#goal-2)
-- [Goal 3](#goal-3)
-- [Goal 4](#goal-4)
-- [Goal 5](#goal-5)
+- [Goal 1 - No Poverty](#goal-1-no-poverty)
+- [Goal 2 - Zero Hunger](#goal-2-zero-hunger)
+- [Goal 3 - Good Health and Wellbeing](#goal-3-good-health-and-wellbeing)
+- [Goal 4 - Quality Education](#goal-4-quality-education)
+- [Goal 5 - Gender Equality](#goal-5-gender-equality)
 
 ## All Goals
 [2015/2016 Kenya Integrated Household Budget Survey](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-2016-Kenya-Integrated-Household-Budget-Survey-Basic-Report.pdf)
