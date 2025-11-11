@@ -8,7 +8,7 @@ toc: true
 - [All Goals](#all-goals)
 - [Goal 1: No Poverty](#goal-1-no-poverty)
 - [Goal 2: Zero Hunger](#goal-2-zero-hunger)
-- [Goal 3: Good Health and Wellbeing](#goal-3-good-health-and-wellbeing)
+- [Goal 3: Good Health and Well-Being](#goal-3-good-health-and-well-being)
 - [Goal 4: Quality Education](#goal-4-quality-education)
 - [Goal 5: Gender Equality](#goal-5-gender-equality)
 
