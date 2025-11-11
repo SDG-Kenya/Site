@@ -6,6 +6,7 @@ layout: page
 ---
 ## Table of contents
 - [About KNBS](#about-knbs)
+- [About SDEP](#about-sdep)
 - [About this site](#about-this-site)
 - [Need more info?](#need-more-info)
 - [Feedback](#feedback)
@@ -22,7 +23,10 @@ The [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sus
 The 17 Goals were adopted by all UN Member States in 2015, as part of the [2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld).
 
 ## About KNBS
-The Kenya National Bureau of Statistics (KNBS) provides reliable data to track Kenya’s progress towards the Sustainable Development Goals (SDGs). From the economy to health, education, environment, and governance, KNBS empowers evidence-based policies that drive inclusive growth and sustainable development.
+The Kenya National Bureau of Statistics (KNBS) provides reliable data to track Kenya’s progress towards the Sustainable Development Goals (SDGs). From the economy to health, education, environment, and governance, KNBS empowers evidence-based policies that drive inclusive growth and sustainable development.[KNBS Website](https://www.knbs.or.ke/). 
+
+## About SDEP
+The State Department for Economic Planning (SDEP) is responsible for formulation, co-ordination of implementation, monitoring and evaluation of economic development plans, policies and strategies towards achieving the national development agenda.[SDEP Website](https://www.planning.go.ke/).
 
 ## About this site
 This is a platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
