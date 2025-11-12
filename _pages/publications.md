@@ -4,7 +4,7 @@ permalink: /publications/
 layout: page
 toc: true
 ---
-## Table of contents
+## Table of Contents
 - [All Goals](#all-goals)
 - [Goal 1: No Poverty](#goal-1-no-poverty)
 - [Goal 2: Zero Hunger](#goal-2-zero-hunger)
