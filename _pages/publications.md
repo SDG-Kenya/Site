@@ -99,7 +99,6 @@ the past ten years, since the adoption of the 2030 Agenda for Sustainable Develo
 progress has been made in its implementation and many accomplishments have been realized. The
 Kenya National Bureau of Statistics (KNBS) plays a crucial role in this implementation by identifying
 indicators and providing data to track the achievement of the Sustainable Development Goals (SDGs). 
-
 <small>2024</small>
 
 
