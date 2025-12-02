@@ -375,7 +375,7 @@ frontpage_introduction_banner:
     href="https://sdgs.un.org/2030agenda">2030 Agenda for Sustainable
     Development</a>.
 goal_image_base: https://open-sdg.org/sdg-translations/assets/img/goals
-goal_image_extension: ''
+goal_image_extension: png
 goals_page:
   title: general.goals
   description: frontpage.instructions_shorter
